@@ -1,0 +1,4 @@
+{
+  "plugins": [["relay", { "compat": true, "schema": "schema.graphql" }], "@babel/plugin-proposal-class-properties"],
+  "presets": ["@babel/env", "@babel/react"]
+}
